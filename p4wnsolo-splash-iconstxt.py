@@ -15,7 +15,7 @@ from pathlib import Path
 
 from PIL import Image,ImageDraw,ImageFont
 
-# Init variables
+# Init variables #
 prefix = str(pathlib.Path(__file__).parent.resolve()) + '/'
 
 prefix = prefix + 'fonts/'
